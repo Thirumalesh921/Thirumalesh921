@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Thirumalesh 👋
 
-<!--
-**Thirumalesh921/Thirumalesh921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who works mostly with the MERN stack, deploys on Render, and cares a lot about writing clean, maintainable code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+
+**Languages:** JavaScript · TypeScript · Python · C · SQL  
+**Frontend:** React · HTML · CSS  
+**Backend:** Node.js · Express  
+**Databases:** MongoDB · MySQL  
+**Deployment:** Render  
+**Tools:** Git · Postman · Playwright  
+
+
+## 📫 Let's connect
+
+[![Email](https://img.shields.io/badge/Email-thirumaleshnemalipuri@gmail.com-blue?style=flat&logo=gmail)](mailto:thirumaleshnemalipuri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bala-thirumalesh-nemalipuri-b174b828a/)
